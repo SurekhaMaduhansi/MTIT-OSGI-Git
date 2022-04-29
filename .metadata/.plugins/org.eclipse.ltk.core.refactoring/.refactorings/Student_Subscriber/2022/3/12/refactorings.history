@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;student_subscriber.Std_SubsciberActivator.java&apos; to &apos;Std_SubscriberActivator.java&apos;&#x0D;&#x0A;- Original project: &apos;Student_Subscriber&apos;&#x0D;&#x0A;- Original element: &apos;student_subscriber.Std_SubsciberActivator.java&apos;&#x0D;&#x0A;- Renamed element: &apos;student_subscriber.Std_SubscriberActivator.java&apos;" description="Rename compilation unit &apos;Std_SubsciberActivator.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;student_subscriber{Std_SubsciberActivator.java" name="Std_SubscriberActivator.java" references="false" stamp="1647684178545" version="1.0"/>
+</session>

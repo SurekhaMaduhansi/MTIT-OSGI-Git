@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Std_LibraryPublisher
+Bundle-SymbolicName: Std_LibraryPublisher
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: std_librarypublisher.Std_LibraryPub_Activator
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Automatic-Module-Name: Std.LibraryPublisher
+Import-Package: org.osgi.framework;version="1.3.0"
+Bundle-ActivationPolicy: lazy
+Export-Package: std_librarypublisher

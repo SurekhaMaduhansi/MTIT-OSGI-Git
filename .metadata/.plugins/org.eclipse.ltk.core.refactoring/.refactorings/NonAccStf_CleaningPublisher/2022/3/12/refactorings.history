@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;nonaccstf_cleaningpublisher.CleaningPublishIml.java&apos; to &apos;CleaningPublishImpl.java&apos;&#x0D;&#x0A;- Original project: &apos;NonAccStf_CleaningPublisher&apos;&#x0D;&#x0A;- Original element: &apos;nonaccstf_cleaningpublisher.CleaningPublishIml.java&apos;&#x0D;&#x0A;- Renamed element: &apos;nonaccstf_cleaningpublisher.CleaningPublishImpl.java&apos;" description="Rename compilation unit &apos;CleaningPublishIml.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;nonaccstf_cleaningpublisher{CleaningPublishIml.java" name="CleaningPublishImpl.java" references="false" stamp="1647688691246" version="1.0"/>
+</session>

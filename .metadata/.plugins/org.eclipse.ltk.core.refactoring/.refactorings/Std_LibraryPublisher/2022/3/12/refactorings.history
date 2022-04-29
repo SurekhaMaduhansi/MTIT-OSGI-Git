@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;std_librarypublisher.Std_Library_Pub_Activator.java&apos; to &apos;Std_LibraryPub_Activator.java&apos;&#x0D;&#x0A;- Original project: &apos;Std_LibraryPublisher&apos;&#x0D;&#x0A;- Original element: &apos;std_librarypublisher.Std_Library_Pub_Activator.java&apos;&#x0D;&#x0A;- Renamed element: &apos;std_librarypublisher.Std_LibraryPub_Activator.java&apos;" description="Rename compilation unit &apos;Std_Library_Pub_Activator.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;std_librarypublisher{Std_Library_Pub_Activator.java" name="Std_LibraryPub_Activator.java" references="false" stamp="1647679513903" version="1.0"/>
+</session>

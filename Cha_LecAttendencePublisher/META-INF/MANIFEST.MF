@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Cha_LecAttendencePublisher
+Bundle-SymbolicName: Cha_LecAttendencePublisher
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: cha_lecattendencepublisher.LecAttendence_Activator
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Automatic-Module-Name: Cha.LecAttendencePublisher
+Import-Package: org.osgi.framework;version="1.3.0"
+Bundle-ActivationPolicy: lazy
+Export-Package: cha_lecattendencepublisher

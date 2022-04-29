@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Chancellor_subscriber
+Bundle-SymbolicName: Chancellor_subscriber
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: chancellor_subscriber.Chancellor_Sub_Activator
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Automatic-Module-Name: Chancellor.subscriber
+Import-Package: cha_lecattendencepublisher,
+ cha_policyservicepublisher,
+ org.osgi.framework;version="1.3.0"
+Bundle-ActivationPolicy: lazy

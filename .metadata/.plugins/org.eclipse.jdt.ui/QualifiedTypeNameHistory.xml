@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="cha_lecattendencepublisher.LecAttendencePublisherIml"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="java.util.Hashtable"/>
+    <fullyQualifiedTypeName name="cha_policyservicepublisher.PolicyServicePublisherIml"/>
+    <fullyQualifiedTypeName name="std_laboratorypublisher.LaboratoryPublishIml"/>
+    <fullyQualifiedTypeName name="std_librarypublisher.LibraryPublishIml"/>
+    <fullyQualifiedTypeName name="org.osgi.framework.ServiceRegistration"/>
+    <fullyQualifiedTypeName name="lec_vehicleparkingpublisher.LEC_VehicleParkingService"/>
+    <fullyQualifiedTypeName name="lec_cafeteriapublisher.LEC_CafeteriaServiceIml"/>
+    <fullyQualifiedTypeName name="org.osgi.framework.ServiceReference"/>
+    <fullyQualifiedTypeName name="java.io.BufferedReader"/>
+    <fullyQualifiedTypeName name="java.io.InputStreamReader"/>
+</qualifiedTypeNameHistroy>
